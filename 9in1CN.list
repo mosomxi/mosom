@@ -1201,6 +1201,7 @@ HOST-SUFFIX,xhscdn.net,XiaoHongShu
 HOST-SUFFIX,xiaohongshu.com,XiaoHongShu
 HOST-SUFFIX,xiaohongshu.net,XiaoHongShu
 IP-CIDR,119.29.29.98/32,XiaoHongShu
+HOST-KEYWORD,xiaohonghsu,XiaoHongShu
 
 # NAME: NetEase
 # AUTHOR: blackmatrix7
