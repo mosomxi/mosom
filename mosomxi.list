@@ -1,5 +1,5 @@
 # NAME: Free
 # AUTHOR: mosom
 # TOTAL: 13
-HOST,lf3-static.fongo.com,DouYin
-HOST,esoua.com,DouYin
+HOST-SUFFIX,fongo.com,DouYin
+HOST-SUFFIX,esoua.com,DouYin
