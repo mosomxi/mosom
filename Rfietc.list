@@ -39,3 +39,9 @@ HOST-SUFFIX,voanews.com,VOA
 #⭐NYTIME⭐#
 HOST-SUFFIX,nytimes.com,NYTIME
 HOST-SUFFIX,wsj.com,NYTIME
+#🌙️机场🌙️#
+#🌙️这里的是机场链接，为了防止一些机场无法自动订阅/更新
+HOST-SUFFIX,sanfen021.xyz,VPN
+HOST-SUFFIX,fastly.life,VPN
+HOST-SUFFIX,flynb.site,VPN
+HOST-SUFFIX,xc61.cn,VPN
